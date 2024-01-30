@@ -5,4 +5,4 @@ I’ll then explore the different rules and actions I can configure, as well as 
 
 I will be creating this environment in the us-east-1 (N. Virginia) region.
 # Documentation
-The documentation I will be following is linked here ![](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-waf)
+The documentation I will be following is linked ![here](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-waf)
